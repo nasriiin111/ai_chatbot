@@ -204,12 +204,6 @@ This project runs completely locally using Ollama.
 
 ---
 
-## Screenshots
-assets/chatbot-preview.png
-assets/chatbot-preview-2.png
-
----
-
 ## Learning Outcomes
 This project demonstrates:
 
